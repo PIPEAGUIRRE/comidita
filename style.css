@@ -1,0 +1,17 @@
+.titulo-1{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihGYtw_Hfc3tgKwR_q5bdrQjIS7NnfdAzhQ&usqp=CAU);
+    background-size: 300px;
+}
+.button{
+    background-color: royalblue;
+}
+.button p{
+    color: aliceblue;
+}
+tr{
+    background-color: aquamarine;
+}
